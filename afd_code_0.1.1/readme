@@ -1,0 +1,3 @@
+I would like to add a startup menu where I can select "Run manually" with start/stop button, or read predefined processing times from text files from a micro sd card. It would also be nice to select text files from different folders on the sd card, if possible.
+The countdown timer should change every second, as for now I have only managed to make it change every time the motor changes direction, that is every 5 seconds. I should use an interrupt here, but have not yet realized how to do it.
+Also, when running in "manual mode", the timer should count from zero and up from every start.
